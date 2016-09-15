@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Evaluation of Face Detection Services</string>
+    
+    <string name="detection">Detection</string>
+    <string name="evaluation">Evaluation</string>
+    <string name="detection_description">Detect over a selected image with a selected service.</string>
+    <string name="evaluation_description">Evaluate face detection services.</string>
+    <string name="progress_dialog_title">Please wait</string>
+</resources>

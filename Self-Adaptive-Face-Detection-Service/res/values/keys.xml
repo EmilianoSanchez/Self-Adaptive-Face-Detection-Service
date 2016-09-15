@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="x_mashape_key">YOUR MASHAPE KEY</string>
+    <string name="microsoft_faceapi_key">YOUR MICROSOFT FACE API KEY</string>
+    <string name="sky_biometry_api_key">YOUR SKY BIOMETRY API KEY</string>
+    <string name="sky_biometry_api_secret">YOUR SKY BIOMETRY API SECRET</string>
+</resources>
